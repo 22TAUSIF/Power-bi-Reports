@@ -48,4 +48,33 @@ Information About the Project
 16) Setting up tooltips for country breakdown
 17) Slicer panel set up in Power BI
 18) Publishing the dashboard to the Power BI service
-19) Setting GitHub portfolio page
+19) Setting up the GitHub portfolio page
+
+# project Report (Revenue insight in hospitality domain)
+![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/31869f9168bff9efdd1743a987c3163797d589c3/Project%20repoert%20revenue%20insight%20hospitality%20domain%20Screenshot%202024%200ct%2012.png)
+
+Creating a Power BI report involves several key steps.
+
+Data Connection- Import data from various sources (e.g., Excel, SQL, APIs).
+               - Use Power Query Editor to clean, transform, and shape the data.
+
+Data Modeling - Establish relationships between different tables.
+              - Create calculated columns, measures, or hierarchies using DAX (Data Analysis Expressions).
+
+Designing the Report - Drag fields onto visuals (charts, tables, slicers, etc.).
+                     - Use interactive elements like filters and slicers for dynamic analysis.
+                     - Format visuals to improve readability and aesthetics.
+
+Adding Insights - Apply conditional formatting and tooltips to highlight key metrics.
+                - Use measures to calculate KPIs like profit margin, growth rate, etc.
+
+I am testing Interactivity - Test interactions between visuals (cross-filtering and cross-highlighting).
+                      - Ensure slicers, filters, and drill-throughs behave as intended.
+
+Publishing and Sharing - Publish the report to the Power BI Service or embed it in a portal.
+                       - Share with stakeholders via links, apps, or dashboards.
+
+Maintenance and Updates - Schedule automatic refreshes for live data.
+                        - Monitor report usage and feedback to improve.
+
+This summary gives an overview of the lifecycle of building and deploying a Power BI report. Each step ensures the report is accurate, engaging, and useful for decision-making.
