@@ -4,9 +4,12 @@ Adventure Works executive dashboard
 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/fcd920baed3d023a8d1d723170d52aee9a12f04b/Adventure%20works%20executive%20dasboard%20Screenshot%202024%20oct%2012.png)
 
+Adventure Works maps
+
+![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/6117de816c504a1590d01d9473b70132843bc4e1/Adventure%20works%20map%20Screenshot%202024%20oct%2012.png)
 
 
-
+Adventure Works product detail
 
 
 
