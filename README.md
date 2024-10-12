@@ -11,7 +11,7 @@ Adventure Works maps
 
 Adventure Works product detail
 
-
+![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/ad1adf503c0c0ca57609005e4ff6926bdb851adb/Adventure%20works%20product%20detail%20Screenshot%202024%20oct%2012.png)
 
 
 
