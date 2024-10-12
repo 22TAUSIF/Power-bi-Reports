@@ -1,7 +1,8 @@
 # Power-bi-Reports
 
 # Sales Analytics Dashboard
-https://github.com/22TAUSIF/Power-bi-Reports/blob/411d1c74f6b479497d6d6b242428bc6c3342422b/Sales%20Analytics%20Dashboard%20Screenshot%202024.png
+![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/411d1c74f6b479497d6d6b242428bc6c3342422b/Sales%20Analytics%20Dashboard%20Screenshot%202024.png)
+
 Information About the Project
 1) How do you design a dashboard in Power BI?
 2) Data modeling with Power BI and Star schema development
