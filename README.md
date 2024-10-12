@@ -1,4 +1,24 @@
 # Power-bi-Reports
+# Adventure works project report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Finance KPI Dashboard 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/a49cf0b395b0ff64fc3e8a8cf0101fa36add9d18/Finance%20KPI%20Dashboard%20Screenshot%202024%20oct.png)
