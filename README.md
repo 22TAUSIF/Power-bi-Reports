@@ -8,7 +8,6 @@ Adventure Works maps
 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/6117de816c504a1590d01d9473b70132843bc4e1/Adventure%20works%20map%20Screenshot%202024%20oct%2012.png)
 
-
 Adventure Works product detail
 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/ad1adf503c0c0ca57609005e4ff6926bdb851adb/Adventure%20works%20product%20detail%20Screenshot%202024%20oct%2012.png)
@@ -17,12 +16,11 @@ Adventure Works customer detail
 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/b2c047b572b94686e3468f2b171d3d1e1bcd539c/Adventure%20works%20customer%20detail%20Screenshot%202024%20oct%2012.png)
 
+Adventure Works decomposition tree
 
+![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/423568632484ada8869f00f45339f0ffdc042b14/Adventure%20works%20decomposition%20tree%20Screenshot%202024%20oct%2012.png)
 
-
-
-
-
+Adventure Works tooltip
 
 
 
