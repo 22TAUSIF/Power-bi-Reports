@@ -2,7 +2,7 @@
 
 # Sales Analytics Dashboard
 ![Portfolio Dashboard](Sales Analytics Dashboard Screenshot 2024.png)
-
+Sales Analytics Dashboard Screenshot 2024.png
 Information About Project
 1) How do you design a dashboard in Power BI?
 2) Data modeling with Power BI and Star schema development
