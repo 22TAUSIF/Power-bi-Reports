@@ -135,6 +135,8 @@ Key topics/ideas I learned are:
 11) Table formatting for executive reporting
 12) + plus many other useful tips and tricks
 
+THE END
+
 # Sales Analytics Dashboard
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/411d1c74f6b479497d6d6b242428bc6c3342422b/Sales%20Analytics%20Dashboard%20Screenshot%202024.png)
 
@@ -158,6 +160,9 @@ Information About the Project
 17) Slicer panel set up in Power BI
 18) Publishing the dashboard to the Power BI service
 19) Setting up the GitHub portfolio page
+
+THE END
+
 
 # project Report (Revenue insight in hospitality domain)
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/31869f9168bff9efdd1743a987c3163797d589c3/Project%20repoert%20revenue%20insight%20hospitality%20domain%20Screenshot%202024%200ct%2012.png)
@@ -187,3 +192,5 @@ Maintenance and Updates - Schedule automatic refreshes for live data.
                         - Monitor report usage and feedback to improve.
 
 This summary gives an overview of the lifecycle of building and deploying a Power BI report. Each step ensures the report is accurate, engaging, and useful for decision-making.
+
+THE END
