@@ -1,9 +1,8 @@
 # Power-bi-Reports
 
 # Sales Analytics Dashboard
-![Portfolio Dashboard](Sales Analytics Dashboard Screenshot 2024.png)
-!("C:\Users\hp\OneDrive\Pictures\Screenshots\Sales Analytics Dashboard Screenshot 2024.png")
-Information About Project
+
+Information About the Project
 1) How do you design a dashboard in Power BI?
 2) Data modeling with Power BI and Star schema development
 3) Identifying measures and KPIs for sales analytics
