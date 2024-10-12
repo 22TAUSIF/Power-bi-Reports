@@ -13,6 +13,15 @@ Adventure Works product detail
 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/ad1adf503c0c0ca57609005e4ff6926bdb851adb/Adventure%20works%20product%20detail%20Screenshot%202024%20oct%2012.png)
 
+Adventure Works customer detail
+
+![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/b2c047b572b94686e3468f2b171d3d1e1bcd539c/Adventure%20works%20customer%20detail%20Screenshot%202024%20oct%2012.png)
+
+
+
+
+
+
 
 
 
