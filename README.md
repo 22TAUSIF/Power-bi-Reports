@@ -109,7 +109,7 @@ We have also used  powerful artificial Intelligence tools like decomposition tre
 THE END
 
 
-# Finance KPI Dashboard 
+# 2.  Finance KPI Dashboard 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/a49cf0b395b0ff64fc3e8a8cf0101fa36add9d18/Finance%20KPI%20Dashboard%20Screenshot%202024%20oct.png)
 
 Information About The Project
@@ -137,7 +137,7 @@ Key topics/ideas I learned are:
 
 THE END
 
-# Sales Analytics Dashboard
+# 3.  Sales Analytics Dashboard
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/411d1c74f6b479497d6d6b242428bc6c3342422b/Sales%20Analytics%20Dashboard%20Screenshot%202024.png)
 
 Information About the Project
@@ -164,7 +164,7 @@ Information About the Project
 THE END
 
 
-# project Report (Revenue insight in hospitality domain)
+# 4.  project Report (Revenue insight in hospitality domain)
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/31869f9168bff9efdd1743a987c3163797d589c3/Project%20repoert%20revenue%20insight%20hospitality%20domain%20Screenshot%202024%200ct%2012.png)
 
 Creating a Power BI report involves several key steps.
