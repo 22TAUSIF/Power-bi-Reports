@@ -1,5 +1,9 @@
 # Power-bi-Reports
 # 1.  Adventure works project report
+
+Project Overview
+This project simulates the role of a Business Intelligence (BI) Analyst at AdventureWorks Cycles, a fictional manufacturing company. The goal is to transform raw data into professional-quality reports and dashboards to track KPIs, regional performance, product trends, and customer insights. The project utilizes Power BI for data extraction, transformation, modeling, and visualization, with advanced AI tools integrated for deeper analysis and smooth performance at scale.
+
 Adventure Works executive dashboard
 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/fcd920baed3d023a8d1d723170d52aee9a12f04b/Adventure%20works%20executive%20dasboard%20Screenshot%202024%20oct%2012.png)
