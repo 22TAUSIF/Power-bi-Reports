@@ -41,40 +41,16 @@ This project aims to create a detailed **customer churn analysis report** using 
 - **Power Query** (for data transformation)  
 - **DAX** (for advanced calculations)
 
+
+![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/0735c147aa338072a4cdcba00460a1f87c60695d/Screenshot%20Customer%20Churn%20analysis.%20bi%20with%20gurpreet%2017-10-24.png)
+
 ## **Conclusion**  
 This project demonstrates the full lifecycle of a **customer churn analysis**, from raw data ingestion to meaningful insights that inform business decisions. Feel free to explore the code and methodology used, and adapt the report to other datasets or industries.  
 
-![image alt]
+The customer churn rate is the percentage of customers or subscribers who stop using a company's products or services within a given period. It is a key metric used by businesses to measure how well they retain their customers.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 1.  Adventure Works project report
+# 2.  Adventure Works project report
 
 Project Overview - 
 This project simulates the role of a Business Intelligence (BI) Analyst at AdventureWorks Cycles, a fictional manufacturing company. The goal is to transform raw data into professional-quality reports and dashboards to track KPIs, regional performance, product trends, and customer insights. The project utilizes Power BI for data extraction, transformation, modeling, and visualization, with advanced AI tools integrated for deeper analysis and smooth performance at scale.
@@ -191,7 +167,7 @@ We have also used  powerful artificial Intelligence tools like decomposition tre
 THE END
 
 
-# 2.  Finance KPI Dashboard 
+# 3.  Finance KPI Dashboard 
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/a49cf0b395b0ff64fc3e8a8cf0101fa36add9d18/Finance%20KPI%20Dashboard%20Screenshot%202024%20oct.png)
 
 Information About The Project
@@ -219,7 +195,7 @@ Key topics/ideas I learned are:
 
 THE END
 
-# 3.  Sales Analytics Dashboard
+# 4.  Sales Analytics Dashboard
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/411d1c74f6b479497d6d6b242428bc6c3342422b/Sales%20Analytics%20Dashboard%20Screenshot%202024.png)
 
 Information About the Project
@@ -246,7 +222,7 @@ Information About the Project
 THE END
 
 
-# 4.  project Report (Revenue insight in hospitality domain)
+# 5.  project Report (Revenue insight in the hospitality domain)
 ![image alt](https://github.com/22TAUSIF/Power-bi-Reports/blob/31869f9168bff9efdd1743a987c3163797d589c3/Project%20repoert%20revenue%20insight%20hospitality%20domain%20Screenshot%202024%200ct%2012.png)
 
 Creating a Power BI report involves several key steps.
