@@ -1,4 +1,79 @@
 # Power-bi-Reports
+
+## 1. Bank Customer Churn Analysis
+
+# **Customer Churn Analysis Report using Power BI**
+
+This project focuses on the end-to-end development and publication of a Customer Churn Analysis Report using the Bank Customer Churn Dataset. The report provides insights into customer behavior, retention strategies, and potential churn risks to help businesses make data-driven decisions.
+
+## **Project Overview**  
+This project aims to create a detailed **customer churn analysis report** using Power BI, following each stage of the data analytics process. Below are the steps involved:
+
+### **1. Data Connection**
+- I connected the **Bank Customer Churn Dataset** to Power BI from the CSV File.  
+- Ensured data integrity by verifying the structure and fields before loading.  
+
+### **2. Data Preparation**
+- Cleaned and transformed the data using **Power Query**.  
+- Handled missing values, standardized field names, and ensured data types were consistent.  
+- Created additional calculated columns, such as **tenure groups** and **churn flags**, for deeper insights.
+
+### **3. Data Modeling and Analysis**
+- Built relationships between different tables and performed **DAX calculations** for KPIs such as:
+  - **Churn Rate**  
+  - **Retention Rate**  
+  - **Average Customer Tenure**  
+- Identified patterns, including correlations between demographics, product usage, and churn behavior.
+
+### **4. Data Visualization**
+- Designed interactive and user-friendly **Power BI dashboards** to display insights clearly, including:
+  - Customer segmentation by geography, tenure, and account balance.
+  - Key metrics such as churn trends, high-risk customers, and retention forecasts.
+  - Filters and slicers for **dynamic exploration** of data.
+
+### **5. Report Sharing and Distribution**
+- Published the report on **Power BI Service** to enable access to stakeholders.  
+- Set up **scheduled refreshes** to keep the data up to date.  
+- Configured permissions and shared reports through **Power BI Workspaces and email links**.
+
+## **Technologies Used**
+- **Power BI**  
+- **Power Query** (for data transformation)  
+- **DAX** (for advanced calculations)
+
+## **Conclusion**  
+This project demonstrates the full lifecycle of a **customer churn analysis**, from raw data ingestion to meaningful insights that inform business decisions. Feel free to explore the code and methodology used, and adapt the report to other datasets or industries.  
+
+![image alt]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 1.  Adventure Works project report
 
 Project Overview - 
